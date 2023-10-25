@@ -28,10 +28,10 @@ The project is structured into three main phases:
 
 We provide the following visual representations based on tweets collected with the keyword "covid":
 
-- **Figure 2**: A bipartite graph displaying the strength of relationships between different elements.
-- **Figure 3**: A dynamic plot showing the average change in emotions per batch of tweets over time.
-- **Figure 4**: A dynamic plot illustrating the average change between negative and positive sentiments per batch of tweets over time.
-- **Figure 5**: A dynamic plot presenting the frequency of different emotions per batch of tweets over time.
+- A bipartite graph displaying the strength of relationships between different elements.
+- A dynamic plot showing the average change in emotions per batch of tweets over time.
+- A dynamic plot illustrating the average change between negative and positive sentiments per batch of tweets over time.
+- A dynamic plot presenting the frequency of different emotions per batch of tweets over time.
 
 ## Project Goal
 
